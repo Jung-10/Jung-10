@@ -16,6 +16,8 @@ Here are some ideas to get you started:
 -->
 
 ![yell's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jung-10&show_icons=true&theme=radical)
+
+[![코드트리|실력진단-yell10](https://banner.codetree.ai/v1/banner/yell10)](https://www.codetree.ai/profiles/yell10)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=yell_10)](https://solved.ac/yell_10/)
 
 # 💪Skills
